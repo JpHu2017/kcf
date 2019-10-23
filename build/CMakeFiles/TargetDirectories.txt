@@ -1,3 +1,0 @@
-/home/tl/coding/kcf/build/CMakeFiles/rebuild_cache.dir
-/home/tl/coding/kcf/build/CMakeFiles/kcf_test.dir
-/home/tl/coding/kcf/build/CMakeFiles/edit_cache.dir
